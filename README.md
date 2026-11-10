@@ -2,12 +2,8 @@
 
 Alumno: Tiziano · Analista Programador Universitario · 2º cuatrimestre 2026
 
-Cada ejercicio es **un repositorio** (1 ejercicio = 1 repo) con su `README.md` (consigna, lógica y captura de la consola). Este índice separa las dos materias para revisarlas en orden.
-
 - [Programación II (Java)](#programación-ii-java)
 - [Base de Datos](#base-de-datos)
-
-También se pueden filtrar en GitHub por etiqueta: [`programacion-ii`](https://github.com/search?q=user%3Atizianogale2017-tech+topic%3Aprogramacion-ii&type=repositories) · [`base-de-datos`](https://github.com/search?q=user%3Atizianogale2017-tech+topic%3Abase-de-datos&type=repositories).
 
 ---
 
