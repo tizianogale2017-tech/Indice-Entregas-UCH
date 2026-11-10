@@ -1,6 +1,6 @@
 # Índice de entregas - Universidad Champagnat
 
-Alumno: Tiziano · Analista Programador Universitario en Sistemas · 2º cuatrimestre 2026
+Alumno: Tiziano · Analista Programador Universitario · 2º cuatrimestre 2026
 
 Cada ejercicio es **un repositorio** (1 ejercicio = 1 repo) con su `README.md` (consigna, lógica y captura de la consola). Este índice separa las dos materias para revisarlas en orden.
 
