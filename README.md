@@ -28,7 +28,7 @@ Etiqueta: `programacion-ii`. Nombre de los repos: `ProgramacionII-U<unidad>-Ej<n
 | 5 | Medidor Electrico | [ProgramacionII-U1-Ej05-MedidorElectrico](https://github.com/tizianogale2017-tech/ProgramacionII-U1-Ej05-MedidorElectrico) |
 | 6 | Boleto Vuelo | [ProgramacionII-U1-Ej06-BoletoVuelo](https://github.com/tizianogale2017-tech/ProgramacionII-U1-Ej06-BoletoVuelo) |
 | 7 | Tomo Manga | [ProgramacionII-U1-Ej07-TomoManga](https://github.com/tizianogale2017-tech/ProgramacionII-U1-Ej07-TomoManga) |
-| 8 | Termometro Io T | [ProgramacionII-U1-Ej08-TermometroIoT](https://github.com/tizianogale2017-tech/ProgramacionII-U1-Ej08-TermometroIoT) |
+| 8 | Termometro IoT | [ProgramacionII-U1-Ej08-TermometroIoT](https://github.com/tizianogale2017-tech/ProgramacionII-U1-Ej08-TermometroIoT) |
 | 9 | Plan Hosting | [ProgramacionII-U1-Ej09-PlanHosting](https://github.com/tizianogale2017-tech/ProgramacionII-U1-Ej09-PlanHosting) |
 | 10 | Proyecto Software | [ProgramacionII-U1-Ej10-ProyectoSoftware](https://github.com/tizianogale2017-tech/ProgramacionII-U1-Ej10-ProyectoSoftware) |
 | 11 | Cuenta Ahorros | [ProgramacionII-U1-Ej11-CuentaAhorros](https://github.com/tizianogale2017-tech/ProgramacionII-U1-Ej11-CuentaAhorros) |
