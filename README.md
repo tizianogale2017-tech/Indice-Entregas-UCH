@@ -9,8 +9,6 @@ Alumno: Tiziano · Analista Programador Universitario · 2º cuatrimestre 2026
 
 ## Programación II (Java)
 
-Etiqueta: `programacion-ii`. Nombre de los repos: `ProgramacionII-U<unidad>-Ej<número>-<Nombre>`.
-
 ### Unidad 1 - Fundamentos del paradigma orientado a objetos (clases y objetos)
 
 20 ejercicios.
@@ -162,8 +160,6 @@ Etiqueta: `programacion-ii`. Nombre de los repos: `ProgramacionII-U<unidad>-Ej<n
 ---
 
 ## Base de Datos
-
-Etiqueta: `base-de-datos`. Nombre de los repos: `BaseDeDatos-U<unidad>-Ej<número>-<Nombre>`.
 
 ### Unidad 2
 
