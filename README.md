@@ -3,6 +3,7 @@
 Alumno: Tiziano · Analista Programador Universitario · 2º cuatrimestre 2026
 
 - [Proyecto Final de Programación II](#proyecto-final-de-programación-ii)
+- [Trabajo final de Base de Datos I](#trabajo-final-de-base-de-datos-i)
 - [Programación II (Java)](#programación-ii-java)
 - [Base de Datos](#base-de-datos)
 
@@ -11,6 +12,12 @@ Alumno: Tiziano · Analista Programador Universitario · 2º cuatrimestre 2026
 ## Proyecto Final de Programación II
 
 **[PF_Galetto](https://github.com/tizianogale2017-tech/PF_Galetto)**: gestión de rutinas de un gimnasio, en Java (aplicación de consola). Incluye el código fuente, el diagrama de clases UML (`docs/diagrama-clases.png`) y el `README.md` con la tabla de trazabilidad de los requisitos RM-01 a RM-29 y las instrucciones para compilar y ejecutar.
+
+---
+
+## Trabajo final de Base de Datos I
+
+**[BaseDeDatos-Final-Gimnasio](https://github.com/tizianogale2017-tech/BaseDeDatos-Final-Gimnasio)**: base de datos de un gimnasio de barrio (socios, planes, cuotas y personal), en SQLite. Incluye el documento completo en PDF, el DER en notación de Chen, el esquema relacional, la normalización de la Forma 0 a la 3FN y los scripts SQL numerados.
 
 ---
 
